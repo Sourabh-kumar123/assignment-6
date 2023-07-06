@@ -1,0 +1,16 @@
+ANSWER 1:-
+keyword in python are reserved and predefined that cannot be used as ordinary identifiers .
+import keyword
+print(keyword.kwlist)
+
+ANSWER2:-
+A variable name must start with a letter or the underscore character.
+A variable name cannot start with a number.
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive
+
+ANSWER 3:-
+Instance variable names should follow the lowercase convention. Have the underscore as a separator while naming a multi-word instance variable. 
+Begin a non-public instance variable name with a single underscore. Use two consecutive underscores at the beginning of an instance variable.
+
+ANSWER 4:-
